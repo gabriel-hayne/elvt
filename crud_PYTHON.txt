@@ -1,0 +1,26 @@
+python manage.py runserver
+
+python manage.py makemigrations
+python manage.py migrate
+
+<a href="/delete/{{dbs.id}}/" class="btn btn-danger" onclick="return confirm('You want to delete this?')">Deletar</a>
+
+
+
+
+
+listening port 
+6432
+
+
+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
+
+pythonanywhere
+gabrielhayne3
+
+
+antigo postgresql password:
+Q0R9IGKQQoUZz3jlqaHzTD4jeotUsWSt
+
+novo postgresql password:
+khdtGnvxNqkWoKC2P09tdnnMUWOSoaKK
