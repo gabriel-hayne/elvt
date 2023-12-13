@@ -39,10 +39,10 @@ DEBUG = config("DJANGO_DEBUG", cast=bool)
 
 # ALLOWED_HOSTS = os.environ.get("ALLOWED_HOSTS")
 # ALLOWED_HOSTS = []
-# ALLOWED_HOSTS = ["elvt-app.onrender.com"]
-ALLOWED_HOSTS = [   
-    "*"
-]
+ALLOWED_HOSTS = ["elvt.onrender.com"]
+# ALLOWED_HOSTS = [   
+#     "*"
+# ]
 
 # Application definition
 
@@ -159,6 +159,7 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
+
 # Internationalization
 # https://docs.djangoproject.com/en/4.2/topics/i18n/
 
@@ -169,6 +170,7 @@ TIME_ZONE = 'UTC'
 USE_I18N = True
 
 USE_TZ = True
+
 
 
 # Static files (CSS, JavaScript, Images)

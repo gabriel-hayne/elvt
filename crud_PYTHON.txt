@@ -24,3 +24,6 @@ Q0R9IGKQQoUZz3jlqaHzTD4jeotUsWSt
 
 novo postgresql password:
 khdtGnvxNqkWoKC2P09tdnnMUWOSoaKK
+
+neondb/postgresql password:
+yCL5X3HvSdEx
